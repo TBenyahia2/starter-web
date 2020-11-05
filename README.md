@@ -14,6 +14,7 @@ purp
 
 ##Deployment
 deploy
+ment
 
 ##How to contribute
 give
