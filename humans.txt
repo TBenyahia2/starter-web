@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tarek Benyahia	tbenyahia2@gmail.com	@tarek.takes.trips
 
 # THANKS
 
