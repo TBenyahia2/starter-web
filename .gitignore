@@ -8,6 +8,7 @@ ignoreme.txt
 
 #Specific Patterns/Filetypes to Ignore
 *.log
+*.orig
 
 #SPecific Folders to ignore
 ignoreme/
