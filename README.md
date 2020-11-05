@@ -21,6 +21,7 @@ ment
 ##How to contribute
 give
 give 2
+please fork me and issue the pull request
 
 ##Copyright
 notice
