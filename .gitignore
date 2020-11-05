@@ -1,0 +1,7 @@
+#Git Ignore pattern examples
+#Specific File: MyFile.ext
+#File Pattern/Type: *.ext
+#A Folder: my-folder/
+
+ignoreme.txt
+ignoreme/
