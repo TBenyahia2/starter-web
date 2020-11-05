@@ -7,7 +7,7 @@ Adding in stuff
 
 Sample website with plenty of files for demos
 showing another layer of stuff added
-last layer no notice
+last layer no notice 
 
 ##Purpose
 purp
@@ -21,3 +21,6 @@ ment
 ##How to contribute
 give
 give 2
+
+##Copyright
+notice
