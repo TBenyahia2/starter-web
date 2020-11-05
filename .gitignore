@@ -3,5 +3,12 @@
 #File Pattern/Type: *.ext
 #A Folder: my-folder/
 
+#Specific Files to Ignore
 ignoreme.txt
+
+#Specific Patterns/Filetypes to Ignore
+*.log
+
+#SPecific Folders to ignore
 ignoreme/
+log/
