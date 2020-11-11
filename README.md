@@ -26,7 +26,7 @@ please fork me and issue the pull request
 ##Copyright
 notice
 2222222222
-
+all rights reserved
 
 
 
@@ -36,3 +36,6 @@ notice
 adding blueeeee reeedd greeen
 
 expanding the rebase example
+
+
+
